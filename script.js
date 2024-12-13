@@ -35,6 +35,7 @@ function renderList(listElement, activities) {
         const listItem = document.createElement('li');
         listItem.textContent = activity;
         listElement.appendChild(listItem);
+        //proimt
     });
 }
 
